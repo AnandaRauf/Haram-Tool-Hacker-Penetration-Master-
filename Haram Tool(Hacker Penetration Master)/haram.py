@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 print("--------------------------------------------------------------------------\n")
 
 programname= "Haram Tool"
-version= "Version 1.0.0"
+version= "Version 1.0.2"
 devby="Developed by Ananda Rauf Maududi"
 devdate= "Developed date 23 February"
 print(programname)
@@ -44,14 +44,14 @@ class MenuHaramTool():
           
 
 class SQLInMan():
-    def sqlman():
+    def sqlman(self):
         print("You're choose SQL Injection Manual\n")
         opendriver = webdriver.Chrome('webdriver/chromedriver.exe')
         openbrowser = opendriver
         filetarget = open('target.txt')
         readfiletarget = filetarget.readlines()
         target = readfiletarget[0]
-        checkvulfile = open('checkvuln.txt')
+        checkvulnfile = open('checkvuln.txt')
         readvuln = checkvulnfile.readlines()
         checkvuln = readvuln[0]
         openbrowser.get(target+checkvuln)
@@ -136,7 +136,7 @@ SPYPC = SpyPc()
 RANSOM = Ransom()
 
 if choose== 1:
-        SQLIM.sqlmal()
+        SQLIM.sqlman()
 elif choose==2:
         SQLMP.sqlmap()
 elif choose==3:
