@@ -1,8 +1,8 @@
 Haram Tool (Hacker Penetration Master)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Other Image:
-Screenshoot:
+Other Image: ![Wallpaper Tools](https://raw.githubusercontent.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-/main/Haram%20Tool(Hacker%20Penetration%20Master)/anon.png)
+Screenshoot:![Screenshot Tools](https://raw.githubusercontent.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-/main/Screenshot%20Haram%20Tool/SS.png)
 
 Version: 1.0.0
 
