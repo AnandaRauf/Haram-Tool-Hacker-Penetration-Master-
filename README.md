@@ -16,6 +16,7 @@ Feature:
 - XSS(Comingsoon)
 - Clickjacking(Comingsoon)
 - DDOS(Comingsoon)
+- DNS Poisoning(Comingsoon)
 - Email Spammer(Comingsoon)
 - Call Spammer(Comingsoon)
 - Create Backdoor File(Image,apk,and exe)(Comingsoon).
