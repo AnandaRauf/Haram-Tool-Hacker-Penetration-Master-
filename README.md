@@ -23,6 +23,13 @@ Feature:
 - Spy PC(Comingsoon)
 - Ransomware(Comingsoon)
 
+Requirement:
+- Python: https://www.python.org/downloads
+- Setting Env Var: System: path/python39/ path/python39/Lib,and path/python39/Lib/Scripts
+- Library: pyfiglet,playsound,and selenium.
+- Install Library: pip install name_library.
+- Webdriver Chrome latest version or second latest version: https://chromedriver.chromium.org/downloads.
+- Google Chrome latest version or second latest version: https://www.google.co.id/chrome/
 
 Developed by: Ananda Rauf Maududi.
 
