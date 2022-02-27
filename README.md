@@ -14,7 +14,7 @@ Feature:
 - Art Text Ascii
 - SQL Injection Manual(Check website vuln and Order By)(Comingsoon all commands)
 - SQLMap
-- XSS(Comingsoon)
+- XSS download on new version: [!New Version_Relese](https://github.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-/releases/tag/1.1.1)
 - Clickjacking(Comingsoon)
 - DDOS(Comingsoon)
 - DNS Poisoning(Comingsoon)
