@@ -15,7 +15,7 @@ Feature:
 - SQL Injection Manual(Check website vuln,comand SQL Injection manual Order By, Union Select, and Union Select(check database and database version))(Comingsoon all commands)
 - SQLMap
 - XSS visit: [New Version Release](https://github.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-/releases/tag/1.1.1)
-- Clickjacking visit: [New Version Release] (https://github.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-/releases/tag/1.2.2)
+- Clickjacking visit: [New Version Release](https://github.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-/releases/tag/1.2.2)
 - DDOS(Comingsoon)
 - DNS Poisoning(Comingsoon)
 - Email Spammer(Comingsoon)
