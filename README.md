@@ -1,4 +1,4 @@
-Haram Tool (Hacker Penetration Master)
+Haram Tool (Hacker Web Penetration Master Tool)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@ Screenshoot:![Screenshot Tools](https://raw.githubusercontent.com/AnandaRauf/Har
 
 
 
-Haram Tool is Penetration Testing.
+Haram Tool is Software Web Penetration Testing.
 
 Feature:
 - Intro sound.
@@ -18,12 +18,8 @@ Feature:
 - Clickjacking visit: [New Version Release](https://github.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-/releases/tag/1.2.2)
 - DDOS(Comingsoon)
 - DNS Poisoning(Comingsoon)
-- Email Spammer(Comingsoon)
-- Call Spammer(Comingsoon)
-- Create Backdoor File(Image,apk,and exe)(Comingsoon).
-- Spy Smartphone(Comingsoon)
-- Spy PC(Comingsoon)
-- Ransomware(Comingsoon)
+- Remote Code Execution(Comingsoon)
+
 
 Requirement:
 - Python: https://www.python.org/downloads
