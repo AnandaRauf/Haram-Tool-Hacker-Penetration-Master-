@@ -8,6 +8,7 @@ Screenshoot:![Screenshot Tools](https://raw.githubusercontent.com/AnandaRauf/Har
 
 
 Haram Tool is Software Web Penetration Testing.
+[![HaramTool](https://github.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-/actions/workflows/python-publish.yml/badge.svg?branch=main&event=check_run)](https://github.com/AnandaRauf/Haram-Tool-Hacker-Penetration-Master-/actions/workflows/python-publish.yml)
 
 Feature:
 - Intro sound.
