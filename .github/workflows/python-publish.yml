@@ -7,12 +7,12 @@
 # To get a newer version, you will need to update the SHA.
 # You can also reference a tag or branch, but the action may change without warning.
 
-name: HaramTool
+name: Publish ${package_name} to PyPI / GitHub
 
 on:
-  release:
-    types: [published]
-
+  push:
+    tags:
+      - "v*"
 jobs:
   build-n-publish:
     name: Build and publish to PyPI
